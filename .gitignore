@@ -1,4 +1,7 @@
 *.class
+.settings/
+build/
+.project
 
 # Package Files #
 *.jar
